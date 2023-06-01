@@ -1,0 +1,24 @@
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.custom-close-button {
+  padding: 0;
+  background: none;
+  border: none;
+  cursor: pointer;
+  width: 50px;
+  background-color: red;
+  border-radius: 10px;
+}
+
+.close-icon {
+  font-size: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+
+}
